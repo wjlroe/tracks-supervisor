@@ -1,4 +1,7 @@
 /vendor/
-/tmp/
-/log/
-*.sqlite*
+/tmp/*
+/log/*.log
+db/*.sqlite*
+*.rb~
+*.rake~
+*.erb~
